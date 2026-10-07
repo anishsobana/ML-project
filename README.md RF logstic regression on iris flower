@@ -1,0 +1,3 @@
+Loads the Iris dataset with scikit-learn
+Visualizes feature relationships with seaborn
+ Trains and evaluates a KNN classifier
